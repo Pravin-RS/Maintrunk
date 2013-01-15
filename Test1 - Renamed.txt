@@ -1,6 +1,6 @@
-This is a test file.
-With some random text.
+This is a test file from branch2.
+With some randomjunk text.
 
-Added my 2 cents.
+Added my 2.2 cents.
 
 - end -
