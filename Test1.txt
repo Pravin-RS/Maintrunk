@@ -1,5 +1,6 @@
 This is a test file.
-This is a second line
+This is a second line.
+and 3rd line
 With some random text.
 
 - end -
